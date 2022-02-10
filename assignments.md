@@ -22,3 +22,6 @@ Shmueli writes that although explanatory modeling is commonly used for theory bu
     
     
 1 This paragraph draws from “Comment on Breiman's ‘Two Cultures’ (2002): From Two Cultures to Multicultural” written by Shmueli in 2021. It is available online at: https://muse.jhu.edu/article/799735 
+
+
+# Next Homework
