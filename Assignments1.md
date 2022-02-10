@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Assignments1
+permalink: /Assignments1/
 ---
 
 I am a doctoral student of Public Affairs at the University of Texas at Dallas. My research interests are at the crossroads of nonprofit organizations and political science, especially international relations. I study immigration (diasporas) and philanthropy (corporate social responsibility).
