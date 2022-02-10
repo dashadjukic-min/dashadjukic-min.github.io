@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Assignment
-permalink: /assignment/
+title: Assignments
+permalink: /assignments/
 ---
 
 # Comparative review of two scholarly articles
