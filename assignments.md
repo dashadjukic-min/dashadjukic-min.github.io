@@ -17,4 +17,4 @@ Shmueli, Galit (2010): “To Explain or to Predict?” Statistical Science, Vol.
     Shmueli writes that although explanatory modeling is commonly used for theory building and testing, predictive modeling is nearly absent in many scientific fields as a tool for developing theory.  He asserts that prediction should be established as a necessary scientific endeavor beyond utility, for the purpose of developing and testing theories.  For example, large and rich datasets can be too complex to theorize about patterns and relationships and predictive modeling can help uncover potential new causal mechanisms and lead to the generation of new hypotheses.  
     
     
-1 This paragraph draws from “Comment on Breiman's ‘Two Cultures’ (2002): From Two Cultures to Multicultural” written by Shmueli in 2021. It is available online at: https://muse.jhu.edu/article/799735 ![image](https://user-images.githubusercontent.com/98496853/153476649-42c83bd2-8391-4774-b8a7-e318c2e1a8b2.png)
+1 This paragraph draws from “Comment on Breiman's ‘Two Cultures’ (2002): From Two Cultures to Multicultural” written by Shmueli in 2021. It is available online at: https://muse.jhu.edu/article/799735 
