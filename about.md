@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a doctoral student of Public Affairs at the University of Texas at Dallas. My research interests are at the crossroads of nonprofit organizations and political science, especially international relations. I study immigration (diasporas) and philanthropy (corporate social responsibility).
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I work as a Graduate Assistant in the Office of Programs, Assessment and Accreditation, where I assist with projects related to assessment of administrative units and academic programs.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dasha.djukic@utdallas.edu](mailto:dasha.djukic@utdallas.edu)
