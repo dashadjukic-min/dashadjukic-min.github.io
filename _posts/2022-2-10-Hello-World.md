@@ -7,4 +7,4 @@ I am a doctoral student of Public Affairs at the University of Texas at Dallas. 
 
 I work as a Graduate Assistant in the Office of Programs, Assessment and Accreditation, where I assist with projects related to assessment of administrative units and academic programs.
 
-[SAVE CLASS] (SAVECLASS.html)
+[name] (name.html)
