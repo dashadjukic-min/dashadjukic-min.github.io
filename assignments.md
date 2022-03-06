@@ -30,3 +30,9 @@ Shmueli writes that although explanatory modeling is commonly used for theory bu
 [Lab0](https://github.com/dashadjukic-min/dashadjukic-min.github.io/blob/06d267489d67977b6e404dd11b29a25d8fb7357a/Lab0.html)
 
 [Lab01](https://github.com/dashadjukic-min/dashadjukic-min.github.io/blob/4702e6565c63106ec61b77647bfbcc163b21f161/Lab01.html)
+
+[Lab02](https://github.com/dashadjukic-min/dashadjukic-min.github.io/blob/5063bfda4df9b5298e282b4477a15791b69b0a4b/Lab02.html)
+
+[Lab03](https://github.com/dashadjukic-min/dashadjukic-min.github.io/blob/5063bfda4df9b5298e282b4477a15791b69b0a4b/Lab03.html)
+
+[Lab04](https://github.com/dashadjukic-min/dashadjukic-min.github.io/blob/5063bfda4df9b5298e282b4477a15791b69b0a4b/Lab04.html)
