@@ -1,0 +1,159 @@
+---
+title: "Lab04"
+author: "Dasha Djukic-Min"
+date: "3/5/2022"
+output: html_document
+---
+
+# R Programming (EDA 2)
+# Adapted from R4DS Chapter 7: Exploratory Data Analysis
+
+# Prerequisite: use preload function to get tidyverse and descr load them
+```{r}
+library(tidyverse)
+library(descr) # Describe attributes of objects/variables
+```
+
+# Explore the diamonds dataset
+```{r}
+?diamonds
+```
+
+# Examine the variables using the class function
+```{r}
+class(cut)
+sapply(diamonds,class)
+```
+
+# Frequency table from descr package
+```{r}
+attach(diamonds)
+freq(cut,plot=F) # can add a plot by default
+```
+
+# Frequency table, alternative method
+```{r}
+with(diamonds, {freq(cut, plot=T)})
+```
+
+# Create tibble object out of diamonds dataset
+```{r}
+diam_tb=as_tibble(diamonds)
+class(diam_tb) # How is this different from a data frame?
+```
+
+# Plot the bar chart using ggplot2
+```{r}
+ggplot(data = diamonds) +
+  geom_bar(mapping = aes(x = cut)) 
+```
+
+# Better plot with percentage on y axis
+```{r}
+ggplot(data = diamonds,aes(cut)) +
+  geom_bar(mapping = aes(y = (..count..)/sum(..count..))) + theme_bw() +
+  scale_y_continuous(labels=scales::percent) +
+  ylab("Percent")
+```
+
+# Exercise 1
+# Save the chart into PNG, PDF and SVG formats
+
+##pdf
+```{r}
+setwd("/Users/dasha/Desktop")
+pdf("barplot.pdf")
+library("ggplot2")
+ggplot(data = diamonds,aes(cut)) +
+  geom_bar(mapping = aes(y = (..count..)/sum(..count..))) + theme_bw() +
+  scale_y_continuous(labels=scales::percent) +
+  ylab("Percent")
+dev.off()
+```
+##png
+```{r}
+png("barplot.png")
+ggplot(data = diamonds,aes(cut)) +
+  geom_bar(mapping = aes(y = (..count..)/sum(..count..))) + theme_bw() +
+  scale_y_continuous(labels=scales::percent) +
+  ylab("Percent")
+dev.off()
+``` 
+
+##svg
+```{r}
+svg("barplot.svg")
+ggplot(data = diamonds,aes(cut)) +
+  geom_bar(mapping = aes(y = (..count..)/sum(..count..))) + theme_bw() +
+  scale_y_continuous(labels=scales::percent) +
+  ylab("Percent")
+dev.off()
+```
+# What are the differences among all these formats?
+#### A PNG file is pixel-based image format. If scaled up, it becomes grainy/pixelated and if too small, it can become indistinct. 
+#### A SVG file is vector-based. This means that they use mathematical algorithms to display images, which you can then scale to any size without negatively impacting their quality.
+#### A PDF is also vector-based but of larger file size than SVGs. 
+
+# Plot another variable carat
+```{r}
+ggplot(data = diam_tb) +
+  geom_histogram(mapping = aes(x = carat), binwidth = 0.5)
+```
+
+# Exercise 2
+# Can you improve the visualization of this chart?
+
+```{r}
+ggplot(data = diam_tb) +
+  geom_histogram (mapping = aes(x = carat), fill="#FF6666", binwidth = 0.03) +
+  labs(title="Quantity of diamonds according to weight",x="Diamond Weight", y = "Count")+
+  theme_classic()
+```
+
+# What is the difference between barchart and histogram?
+#### Barchart is for representing categorical variables and historgram for continuous variables 
+
+# Subsetting the dataset
+```{r}
+smaller <- diamonds %>% 
+  filter(carat < 3)
+```
+
+# Histogram of smaller dataset
+```{r}
+ggplot(data = smaller, mapping = aes(x = carat)) +
+  geom_histogram(binwidth = 0.1)
+```
+
+# Polygon
+```{r}
+ggplot(data = smaller, mapping = aes(x = carat, colour = cut)) +
+  geom_freqpoly(binwidth = 0.1) + theme_bw() 
+```
+
+# Exercise 3
+# Can you change colors?
+# Hint: use the RcolorBrewer package
+
+```{r}
+library(RColorBrewer)
+```
+
+# Continuous variables
+```{r}
+ggplot(data = faithful) + 
+  geom_point(mapping = aes(x = eruptions, y = waiting), color='blue')+
+  labs(title="Eruptions by time of waiting",x="Eruptions", y = "Waiting")+
+  theme_classic()
+```
+
+# Exercise 4
+# What method you will use to analyze:
+### Dependent variable: continuous, Independent variable: discrete
+#### ANOVA
+
+### Dependent variable: discrete, Independent variable: continuous
+#### Logistic regression or logit for binary response and Poisson regression for a count-based DV
+
+### Dependent variable: continuous, Independent variable: continuous
+##### Linear regression 
