@@ -1,7 +1,6 @@
 ---
 date: 2022-02-10
 layout: page
-title: Homework
 permalink: /assignments/
 ---
 
