@@ -1,10 +1,10 @@
 ---
 date: 2022-02-10
 layout: page
+title: Prepare for Class
 permalink: /assignments/
 ---
 
-# Prepare for Class
 [Comparative Review of Two Scholarly Articles](https://dashadjukic-min.github.io/Comparative-Review-of-Two-Scholarly-Articles.html)
 
 
