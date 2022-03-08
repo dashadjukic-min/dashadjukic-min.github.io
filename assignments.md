@@ -27,7 +27,7 @@ Shmueli writes that although explanatory modeling is commonly used for theory bu
 
 # Labs Homework
 
-[Lab0](dashadjukic-min.github.io/Lab0.html)
+[Lab0](https://dashadjukic-min.github.io/Lab0.html)
 
 [Lab01](https://dashadjukic-min.github.io/Lab01.html)
 
