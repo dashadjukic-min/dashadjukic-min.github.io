@@ -31,7 +31,7 @@ Shmueli writes that although explanatory modeling is commonly used for theory bu
 
 [Lab01](https://dashadjukic-min.github.io/Lab01.html)
 
-[Lab02](file:///Users/dasha/Desktop/UTD%20Ph.D.%20MASTER/First%20Year/2nd%20Semester/Knowledge%20Mining/Labs/Lab02.html)
+[Lab02](https://github.com/dashadjukic-min/dashadjukic-min.github.io/blob/8109bb8dc5a3a3f2c7634e405cdd591a8383b345/Lab02.html)
 
 [Lab03](https://github.com/dashadjukic-min/dashadjukic-min.github.io/blob/5063bfda4df9b5298e282b4477a15791b69b0a4b/Lab03.html)
 
