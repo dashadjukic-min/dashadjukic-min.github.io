@@ -8,7 +8,7 @@ permalink: /assignments/
 [Comparative Review of Two Scholarly Articles](https://dashadjukic-min.github.io/Comparative-Review-of-Two-Scholarly-Articles.html)
 
 
-# Labs Homework
+# Labs 
 
 [Lab0](https://dashadjukic-min.github.io/Lab0.html)
 
