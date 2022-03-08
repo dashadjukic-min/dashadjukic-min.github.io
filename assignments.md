@@ -40,8 +40,8 @@ Shmueli writes that although explanatory modeling is commonly used for theory bu
 
 # Assignments
 
-[Assignment01] (https://dashadjukic-min.github.io/Assignment01.html)
+[Assignment01](https://dashadjukic-min.github.io/Assignment01.html)
 
-[Assignment02] (https://dashadjukic-min.github.io/Assignment02.html)
+[Assignment02](https://dashadjukic-min.github.io/Assignment02.html)
 
 
