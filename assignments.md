@@ -20,6 +20,8 @@ permalink: /assignments/
 
 [Lab04](https://dashadjukic-min.github.io/Lab04.html)
 
+[Lab05](https://dashadjukic-min.github.io/Lab05.html)
+
 
 # Assignments
 
