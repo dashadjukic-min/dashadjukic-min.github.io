@@ -7,6 +7,8 @@ permalink: /assignments/
 
 [Comparative Review of Two Scholarly Articles](https://dashadjukic-min.github.io/Comparative-Review-of-Two-Scholarly-Articles.html)
 
+[Apply Machine Learning to Perform Prediction] (https://dashadjukic-min.github.io/Apply-Machine-Learning.html)
+
 
 # Labs 
 
