@@ -24,7 +24,7 @@ permalink: /assignments/
 
 [Lab05](https://dashadjukic-min.github.io/Lab05.html)
 
-[Text Mining 01] (https://dashadjukic-min.github.io/Text_Mining_01.html)
+[Text Mining 01](https://dashadjukic-min.github.io/Text_Mining_01.html)
 
 
 # Assignments
