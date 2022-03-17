@@ -28,6 +28,8 @@ permalink: /assignments/
 
 [Sentiment Analysis Tidytext](https://dashadjukic-min.github.io/Sentiment_Analysis_Tidytext.html)
 
+[Sentiment Analysis Syuzhet](https://dashadjukic-min.github.io/Sentiment_Analysis_Syuzhet.html)
+
 
 # Assignments
 
