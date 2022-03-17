@@ -26,6 +26,8 @@ permalink: /assignments/
 
 [Text Mining 01](https://dashadjukic-min.github.io/Text_Mining_01.html)
 
+[Sentiment Analysis Tidytext](https://dashadjukic-min.github.io/Sentiment_Analysis_Tidytext.html)
+
 
 # Assignments
 
