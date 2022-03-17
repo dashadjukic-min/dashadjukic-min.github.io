@@ -30,8 +30,6 @@ permalink: /assignments/
 
 [Sentiment Analysis Syuzhet](https://dashadjukic-min.github.io/Sentiment_Analysis_Syuzhet.html)
 
-[Sentiment Analysis](https://dashadjukic-min.github.io/Sentiment-Analysis.html)
-
 
 # Assignments
 
