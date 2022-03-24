@@ -9,6 +9,8 @@ permalink: /assignments/
 
 [Apply Machine Learning to Perform Prediction](https://dashadjukic-min.github.io/Apply-Machine-Learning.html)
 
+[Create a Twitter Academic Research Developer Account](https://dashadjukic-min.github.io/Create a Twitter Academic Research Developer Account.html)
+
 
 # Labs 
 
