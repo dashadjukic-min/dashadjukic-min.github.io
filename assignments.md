@@ -34,6 +34,9 @@ permalink: /assignments/
 
 [Linear Regression](https://dashadjukic-min.github.io/Linear-Regression.html)
 
+[Logistic Regression](https://dashadjukic-min.github.io/Logistic-Regression.html)
+
+
 
 # Assignments
 
