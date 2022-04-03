@@ -32,6 +32,8 @@ permalink: /assignments/
 
 [Sentiment Analysis Syuzhet](https://dashadjukic-min.github.io/Sentiment_Analysis_Syuzhet.html)
 
+[Linear Regression](https://dashadjukic-min.github.io/Linear-Regression.html)
+
 
 # Assignments
 
