@@ -11,7 +11,7 @@ permalink: /assignments/
 
 [Create a Twitter Academic Research Developer Account](https://dashadjukic-min.github.io/Create-a-Twitter-Academic-Research-Developer-Account.html)
 
-[MROBUST Exercise in Stata](https://dashadjukic-min.github.io/mrobust-exercise.html)
+[MROBUST Exercise in Stata](https://dashadjukic-min.github.io/mrobust-with-pic.html)
 
 
 
