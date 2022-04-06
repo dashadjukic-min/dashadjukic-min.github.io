@@ -51,4 +51,6 @@ permalink: /assignments/
 
 [Assignment04](https://dashadjukic-min.github.io/Assignment04.html)
 
+[Assignment06](https://dashadjukic-min.github.io/Assignment06.html)
+
 
