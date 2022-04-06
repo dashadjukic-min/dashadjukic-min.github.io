@@ -13,6 +13,7 @@ permalink: /assignments/
 
 [MROBUST Exercise in Stata](https://dashadjukic-min.github.io/mrobust-with-pic.html)
 
+[COVID-19 Prediction Model Exercise](https://dashadjukic-min.github.io/COVID-Prediction-Model.html)
 
 
 # Labs 
