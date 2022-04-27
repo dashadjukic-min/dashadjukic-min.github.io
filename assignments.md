@@ -15,6 +15,9 @@ permalink: /assignments/
 
 [COVID-19 Prediction Model Exercise](https://dashadjukic-min.github.io/COVID-Prediction-Model.html)
 
+[Progress Report #2](https://dashadjukic-min.github.io/Progress-Report-Project-2.html)
+
+
 
 # Labs 
 
