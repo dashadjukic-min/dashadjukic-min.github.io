@@ -57,6 +57,8 @@ permalink: /assignments/
 
 [Assignment06](https://dashadjukic-min.github.io/Assignment06.html)
 
+[Assignment07](https://dashadjukic-min.github.io/Assignment07.html)
+
 [Final Research Project](https://dashadjukic-min.github.io/Research-Project-Djukic-Min-FINAL.html)
 
 
