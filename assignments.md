@@ -43,6 +43,8 @@ permalink: /assignments/
 
 [Logistic Regression](https://dashadjukic-min.github.io/Logistic-Regression.html)
 
+[Linear Discriminant Analysis (LDA)](https://dashadjukic-min.github.io/LDA.html)
+
 
 
 # Assignments
